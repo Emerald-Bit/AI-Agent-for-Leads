@@ -1,8 +1,6 @@
 # Autonomous Client Research Agent
 
-<video controls width="700">
-  <source src="https://github.com/Emerald-Bit/AI-Agent-for-Leads/raw/main/B2B%20Agent%20Demo%20Long.mp4" type="video/mp4">
-</video>
+<video src="https://github.com/user-attachments/assets/bdee2400-959c-4531-b6d0-849f4e8b75a6" controls width="700"></video>
 
 **The Problem**
 
