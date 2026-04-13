@@ -1,5 +1,9 @@
 # Autonomous Client Research Agent
 
+<video controls width="700">
+  <source src="https://github.com/Emerald-Bit/AI-Agent-for-Leads/raw/main/B2B%20Agent%20Demo%20Long.mp4" type="video/mp4">
+</video>
+
 **The Problem**
 
 B2B prospecting and client vetting are still far more manual than they should be. Assessing whether a target company aligns with specific strategic, commercial, or technical criteria often means spending hours searching websites, extracting relevant information, and piecing together a view from fragmented sources. That slows down decision-making and makes consistent evaluation difficult at scale.
